@@ -1,0 +1,1 @@
+1. Modify line 9 in ormconfig.json to "src/**/*.entity.ts" and then run command "yarn db:seed".
